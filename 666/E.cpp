@@ -8,9 +8,10 @@ void solve(){
 	vector<int> a(n);
 	for(auto& x:a)cin>>x;
 
+	vector<int>
+
 }
 
-		
 int main(){
 
 	freopen("../input.txt","r",stdin);
